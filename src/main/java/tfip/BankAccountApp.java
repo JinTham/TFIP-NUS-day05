@@ -3,7 +3,7 @@ package tfip;
 import java.util.Random;
 import java.util.UUID;
 
-public class App {
+public class BankAccountApp {
     public static void main(String[] args) {
         System.out.println("Welcome to Banking");
 
