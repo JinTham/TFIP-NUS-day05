@@ -1,3 +1,4 @@
+# Git commands
 1. git init                         = initialise a git repo locally
 2. git add *                        = add all files to be staged to commit to local repo
 3. git commit -m "commit message"   = commit 
